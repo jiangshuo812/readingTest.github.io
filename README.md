@@ -160,7 +160,7 @@ MIT License
 ## 联系方式
 
 如有问题或建议，请通过以下方式联系：
-- 邮箱：[your-email@example.com]
+- 邮箱：[xieys23@mails.tsinghua.edu.cn]
 - GitHub：[your-github-username]
 
 ---
